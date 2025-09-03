@@ -1,0 +1,10 @@
+
+body {
+    background: rgb(255, 0, 0);     /* red, blue, yellow, etc */
+    color: #333;             /* red, blue, yellow, etc */
+    font-size: 20px;        /* 0px - 100px and beyond */
+    font-weight: normal;   /* lighter, normal, bold  */
+    text-align: center;      /* left, center or right  */ 
+    margin-top: 20px;        /* From 0px and upwards   */
+    font-style: serif;      /* italic, oblique, normal */
+}
