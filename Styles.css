@@ -8,3 +8,7 @@ body {
     margin-top: 20px;        /* From 0px and upwards   */
     font-style: serif;      /* italic, oblique, normal */
 }
+
+img {
+    align-items: center;
+}
