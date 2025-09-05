@@ -8,7 +8,12 @@ body {
     margin-top: 20px;        /* From 0px and upwards   */
     font-style: serif;      /* italic, oblique, normal */
 }
+#v6{
+    color: green;
+    font-size: 18px;
+}
 
-img {
-    align-items: center;
+.font-color-change{
+    color: goldenrod;
+    font-size: 18px;
 }
